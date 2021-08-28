@@ -22,7 +22,7 @@ agent1, agent2はそれぞれ先手番，後手番に対応し，下記から選
 - input : 標準入力から入力された手を選択するエージェント
 - random : ランダムに手を選択するエージェント
 - value : Value Iterationで得られた価値をもとに手を選択するエージェント
-- policy : Palue Iterationで得られた価値をもとに手を選択するエージェント
+- policy : Policy Iterationで得られた価値をもとに手を選択するエージェント
 
 **ただしagent1, agent2ともにvalueないしpolicyを選ぶことはできない（issue #2）**
 
