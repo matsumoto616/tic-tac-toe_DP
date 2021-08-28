@@ -161,6 +161,8 @@ class Status(Enum):
 class Actions(Enum):
     '''
     行動の定義（列挙型）。該当のマス目に印を書く
+    PolicyIterationではこれも辞書のキーにするが，
+    恐らくhashやeqがすでに定義されていて問題なく使える
     '''
     TL = (0, 0) # TopLeft
     TC = (0, 1) # TopCenter
