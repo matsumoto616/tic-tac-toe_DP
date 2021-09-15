@@ -43,3 +43,5 @@ inputエージェントを選択している場合，入力を求められたら
 コードの構成などは下記書籍を参考にした：
 **「Pythonで学ぶ強化学習 ［改訂第２版］ 入門から実践まで」**
 https://www.amazon.co.jp/dp/B082HNNGQG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+### 序盤中盤終盤，隙がないと思うよ。
